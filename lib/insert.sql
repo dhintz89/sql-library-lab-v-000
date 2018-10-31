@@ -5,4 +5,5 @@ INSERT INTO subgenres (name) VALUES ("Adventure"), ("Magic");
 
 INSERT INTO authors (name) VALUES ("Tolkein"), ("Rowling");
 
-INSERT INTO books ()
+INSERT INTO books (title, year, series_id) VALUES
+  ("Fellowship", 1990, 1), ("")
