@@ -7,4 +7,6 @@ INSERT INTO authors (name) VALUES ("Tolkein"), ("Rowling");
 
 INSERT INTO books (title, year, series_id) VALUES
   ("Fellowship", 1990, 1), ("Two Towers", 1995, 1), ("Return", 2000, 1),
-  ("Sorceror's Stone", 2001, 2), ("Chamber of Secrets", 2002, 2), ("Prisoner of Azkaban")
+  ("Sorceror's Stone", 2001, 2), ("Chamber of Secrets", 2002, 2), ("Prisoner of Azkaban",2004, 2);
+
+INSERT INTO characters ()
