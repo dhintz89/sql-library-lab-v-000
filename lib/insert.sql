@@ -3,4 +3,6 @@ INSERT INTO series (title, author_id, subgenre_id) VALUES
   
 INSERT INTO subgenres (name) VALUES ("Adventure"), ("Magic");
 
-INSERT INTO authors ()
+INSERT INTO authors (name) VALUES ("Tolkein"), ("Rowling");
+
+INSERT INTO books ()
