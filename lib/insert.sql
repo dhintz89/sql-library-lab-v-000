@@ -6,4 +6,5 @@ INSERT INTO subgenres (name) VALUES ("Adventure"), ("Magic");
 INSERT INTO authors (name) VALUES ("Tolkein"), ("Rowling");
 
 INSERT INTO books (title, year, series_id) VALUES
-  ("Fellowship", 1990, 1), ("")
+  ("Fellowship", 1990, 1), ("Two Towers", 1995, 1), ("Return", 2000, 1),
+  ("Sorceror's Stone", 2005, 2), ("Order of Phoenix")
