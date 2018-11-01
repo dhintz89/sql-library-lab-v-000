@@ -17,7 +17,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   ("Harry", "What am I doing here?", "Wizard", 2, 2),
   ("Dobby", "Dobby loves socks", "Elf", 2, 2),
   ("Dumbledore", "Welcome students", "Wizard", 2, 2),
-  ("Voldemort", "Die Harry Potter"), "Evil Wizard", 2, 2);
+  ("Voldemort", "Die Harry Potter", "Evil Wizard", 2, 2);
   
 INSERT INTO character_books (character_id, book_id) VALUES
   (1,1), (1,2), (1,3),
