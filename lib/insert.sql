@@ -19,3 +19,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES
   ("Dumbledore", "Welcome students", "Wizard", 2, 2),
   ("Voldemort", "Die Harry Potter"), "Evil Wizard", 2, 2);
   
+INSERT INTO characters_books
